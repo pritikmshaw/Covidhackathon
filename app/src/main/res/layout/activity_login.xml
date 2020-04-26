@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+
+
+    <TextView
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="REGISTER"
+        android:textSize="28dp"
+        android:textColor="#000"
+        android:id="@+id/tv1"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email address"
+        android:textSize="20dp"
+        android:textColor="#080"
+        android:id="@+id/tv2"
+        android:layout_below="@+id/tv1"
+        android:layout_centerHorizontal="true"/>
+
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Email"
+        android:textSize="20dp"
+        android:id="@+id/ev1"
+        android:layout_below="@+id/tv2"
+        android:layout_centerHorizontal="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textSize="20dp"
+        android:id="@+id/tv3"
+        android:layout_below="@+id/ev1"
+        android:layout_centerHorizontal="true"
+        />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Password"
+        android:textColor="#080"
+        android:textSize="20dp"
+        android:id="@+id/ed2"
+        android:layout_below="@+id/tv3"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
+
