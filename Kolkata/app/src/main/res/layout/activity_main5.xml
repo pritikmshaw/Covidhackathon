@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context=".Main5Activity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        android:text="Register"
+        android:gravity="center"
+        android:layout_gravity="center"
+        ></TextView>
+
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter user name"
+        android:textStyle="italic"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Phone Number"
+        android:textStyle="italic"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Unique Id"
+        android:textStyle="italic"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter password"
+        android:textStyle="italic"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Confirm password"
+        android:textStyle="italic"
+        android:textSize="30dp"></EditText>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="REGISTER"
+
+        android:textColor="@android:color/black"
+        ></Button>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Already have an account ?"
+        android:gravity="center"
+        android:textSize="18dp"
+        android:textColor="@android:color/black"
+        ></TextView>
+
+
+    <Button
+        android:layout_width="150dp"
+
+        android:layout_height="wrap_content"
+        android:text="LOG IN"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"></Button>
+
+
+</LinearLayout>
