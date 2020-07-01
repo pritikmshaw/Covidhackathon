@@ -5,8 +5,33 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="475a2706-3528-46c2-8784-a36793aee8bb" name="Default Changelist" comment="" />
+    <list default="true" id="475a2706-3528-46c2-8784-a36793aee8bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/g.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/i.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/j.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/k.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/l.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/n.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
+    <list id="572fb40c-e70d-4d84-92d2-4dc67056f101" name="Merge branch 'master' into kerela" comment="Merge branch 'master' into kerela&#10;&#10;# Conflicts:&#10;#&#9;Goa/.gitignore&#10;#&#9;Goa/.idea/codeStyles/Project.xml&#10;#&#9;Goa/.idea/gradle.xml&#10;#&#9;Goa/.idea/misc.xml&#10;#&#9;Goa/.idea/runConfigurations.xml&#10;#&#9;Goa/.idea/vcs.xml&#10;#&#9;Goa/.idea/workspace.xml&#10;#&#9;Goa/app/.gitignore&#10;#&#9;Goa/app/build.gradle&#10;#&#9;Goa/app/proguard-rules.pro&#10;#&#9;Goa/app/src/androidTest/java/com/example/goa/ExampleInstrumentedTest.java&#10;#&#9;Goa/app/src/main/AndroidManifest.xml&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main2Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main3Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main4Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main5Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main6Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main7Activity.java&#10;#&#9;Goa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml&#10;#&#9;Goa/app/src/main/res/drawable/ic_launcher_background.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main3.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main4.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main5.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main6.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main7.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/values/colors.xml&#10;#&#9;Goa/app/src/main/res/values/styles.xml&#10;#&#9;Goa/app/src/test/java/com/example/goa/ExampleUnitTest.java&#10;#&#9;Goa/build.gradle&#10;#&#9;Goa/gradle.properties&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.jar&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.properties&#10;#&#9;Goa/gradlew&#10;#&#9;Goa/gradlew.bat" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +39,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="priti" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -26,7 +55,36 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -36,15 +94,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1335" />
-    <option name="height" value="342" />
+    <option name="width" value="644" />
+    <option name="height" value="550" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,22 +115,51 @@
           <expand>
             <path>
               <item name="Tamil Nadu" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="Tamil Nadu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="Tamil Nadu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Tamil Nadu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="Tamil Nadu" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/Covidhackathon" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\res\drawable" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,14 +253,22 @@
       <option name="project" value="LOCAL" />
       <updated>1593611932724</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge branch 'master' into kerela&#10;&#10;# Conflicts:&#10;#&#9;Goa/.gitignore&#10;#&#9;Goa/.idea/codeStyles/Project.xml&#10;#&#9;Goa/.idea/gradle.xml&#10;#&#9;Goa/.idea/misc.xml&#10;#&#9;Goa/.idea/runConfigurations.xml&#10;#&#9;Goa/.idea/vcs.xml&#10;#&#9;Goa/.idea/workspace.xml&#10;#&#9;Goa/app/.gitignore&#10;#&#9;Goa/app/build.gradle&#10;#&#9;Goa/app/proguard-rules.pro&#10;#&#9;Goa/app/src/androidTest/java/com/example/goa/ExampleInstrumentedTest.java&#10;#&#9;Goa/app/src/main/AndroidManifest.xml&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main2Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main3Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main4Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main5Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main6Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main7Activity.java&#10;#&#9;Goa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml&#10;#&#9;Goa/app/src/main/res/drawable/ic_launcher_background.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main3.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main4.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main5.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main6.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main7.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/values/colors.xml&#10;#&#9;Goa/app/src/main/res/values/styles.xml&#10;#&#9;Goa/app/src/test/java/com/example/goa/ExampleUnitTest.java&#10;#&#9;Goa/build.gradle&#10;#&#9;Goa/gradle.properties&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.jar&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.properties&#10;#&#9;Goa/gradlew&#10;#&#9;Goa/gradlew.bat">
+      <created>1593612121287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593612121287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16717096" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1354009" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -183,18 +278,18 @@
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="Debug" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.28641573" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.14354067" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" weight="0.3343419" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.2927383" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
@@ -204,6 +299,7 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="BEK_SORT_TYPE" value="1" />
               <option name="RECENTLY_FILTERED_USER_GROUPS">
                 <collection />
               </option>
@@ -230,8 +326,28 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/tamilnadu/MainActivity.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
