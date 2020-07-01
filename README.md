@@ -1,4 +1,3 @@
-# Covidhackathon
-This project is our hackathon task  basically as we know that its a crucial time going on due to covid-19.
-we r going to make aan app to help in someway.
+# Covidhackathon 
+This repository contains all the files and  folders of our hackathon project this was basically a online hackathon program in which we have participated and there we have to create an application which can help the people with covid-19. 
 
