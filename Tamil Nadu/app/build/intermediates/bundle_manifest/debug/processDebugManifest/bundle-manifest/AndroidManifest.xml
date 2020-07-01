@@ -17,6 +17,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.tamilnadu.Main7Activity" />
+        <activity android:name="com.example.tamilnadu.Main6Activity" />
+        <activity android:name="com.example.tamilnadu.Main5Activity" />
+        <activity android:name="com.example.tamilnadu.Main4Activity" />
+        <activity android:name="com.example.tamilnadu.Main3Activity" />
+        <activity android:name="com.example.tamilnadu.Main2Activity" />
+        <activity
+            android:name="com.example.tamilnadu.ui.login.LoginActivity"
+            android:label="@string/title_activity_login" />
         <activity android:name="com.example.tamilnadu.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,6 +33,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.tamilnadu.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
