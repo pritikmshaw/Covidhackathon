@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de80870-257a-4e4c-acbb-98167e3deaa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Goa/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Goa/url of goa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/studios/codelight/smartlogin/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/studios/codelight/smartlogin/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/android-profile/profile-2020-06-25-20-54-41-845.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/android-profile/profile-2020-06-25-20-57-59-519.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/android-profile/profile-2020-06-25-22-02-34-655.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/android-profile/profile-2020-06-25-22-07-32-652.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../releases/smartloginlibrary-v0.5beta.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/androidTest/java/studios/codelight/smartloginlibrary/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/CustomLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/FacebookLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/GoogleLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/LoginType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/SmartLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/SmartLoginCallbacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/SmartLoginConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/SmartLoginFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/UserSessionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/users/SmartFacebookUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/users/SmartGoogleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/users/SmartUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/util/SmartLoginException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/java/studios/codelight/smartloginlibrary/util/UserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-hdpi/ic_facebook_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-hdpi/ic_google_plus_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-mdpi/ic_facebook_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-mdpi/ic_google_plus_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-xhdpi/ic_facebook_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-xhdpi/ic_google_plus_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-xxhdpi/ic_facebook_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-xxhdpi/ic_google_plus_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-xxxhdpi/ic_facebook_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable-xxxhdpi/ic_google_plus_white_36dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable/button_effect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable/facebook_vector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/drawable/google_plus_vector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/menu/menu_smart_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/values-w820dp/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartloginlibrary/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../STATE CODE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/androidTest/java/com/example/goa/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/androidTest/java/com/example/goa/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main2Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main3Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main3Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main4Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main4Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main5Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main5Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main6Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main6Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main7Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/java/com/example/goa/Main7Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/layout/activity_main7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/app/src/test/java/com/example/goa/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/app/src/test/java/com/example/goa/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Goa/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Goa/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Gujrat/app/src/main/res/layout/activity_main7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Gujrat/app/src/main/res/layout/activity_main7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1335" />
+    <option name="height" value="342" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de80870-257a-4e4c-acbb-98167e3deaa6" name="Default Changelist" comment="" />
+      <created>1593582655671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593582655671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32980332" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3289689" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 28 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
