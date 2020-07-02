@@ -11,7 +11,7 @@
 9-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:5:5-48:19
+11-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:5:5-52:19
 12        android:allowBackup="true"
 12-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -27,108 +27,120 @@
 18-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:10:9-35
 19        android:theme="@style/AppTheme" >
 19-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:11:9-40
-20        <activity android:name="com.example.tamilnadu.Main21Activity" />
+20        <activity android:name="com.example.tamilnadu.Main25Activity" />
 20-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:12:9-61
 20-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:12:19-49
-21        <activity android:name="com.example.tamilnadu.Main20Activity" />
+21        <activity android:name="com.example.tamilnadu.Main24Activity" />
 21-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:13:9-52
 21-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:13:19-49
-22        <activity android:name="com.example.tamilnadu.Main19Activity" />
+22        <activity android:name="com.example.tamilnadu.Main23Activity" />
 22-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:14:9-52
 22-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:14:19-49
-23        <activity android:name="com.example.tamilnadu.Main18Activity" />
+23        <activity android:name="com.example.tamilnadu.Main22Activity" />
 23-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:15:9-52
 23-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:15:19-49
-24        <activity android:name="com.example.tamilnadu.Main17Activity" />
+24        <activity android:name="com.example.tamilnadu.Main21Activity" />
 24-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:16:9-52
 24-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:16:19-49
-25        <activity android:name="com.example.tamilnadu.Main16Activity" >
-25-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:17:9-23:20
+25        <activity android:name="com.example.tamilnadu.Main20Activity" />
+25-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:17:9-52
 25-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:17:19-49
-26            <intent-filter>
-26-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:18:13-22:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:19:17-69
-27-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:19:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:21:17-77
-29-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:21:27-74
-30            </intent-filter>
-31        </activity>
-32        <activity android:name="com.example.tamilnadu.Main15Activity" />
-32-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:24:9-52
-32-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:24:19-49
-33        <activity android:name="com.example.tamilnadu.Main14Activity" />
-33-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:25:9-52
-33-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:25:19-49
-34        <activity android:name="com.example.tamilnadu.Main13Activity" />
-34-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:26:9-52
-34-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:26:19-49
-35        <activity android:name="com.example.tamilnadu.Main12Activity" />
-35-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:27:9-52
-35-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:27:19-49
-36        <activity android:name="com.example.tamilnadu.Main11Activity" />
+26        <activity android:name="com.example.tamilnadu.Main19Activity" />
+26-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:18:9-52
+26-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:18:19-49
+27        <activity android:name="com.example.tamilnadu.Main18Activity" />
+27-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:19:9-52
+27-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:19:19-49
+28        <activity android:name="com.example.tamilnadu.Main17Activity" />
+28-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:20:9-52
+28-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:20:19-49
+29        <activity android:name="com.example.tamilnadu.Main16Activity" >
+29-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:21:9-27:20
+29-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:21:19-49
+30            <intent-filter>
+30-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:22:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:23:17-69
+31-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:23:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:25:17-77
+33-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="com.example.tamilnadu.Main15Activity" />
 36-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:28:9-52
 36-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:28:19-49
-37        <activity android:name="com.example.tamilnadu.Main10Activity" />
+37        <activity android:name="com.example.tamilnadu.Main14Activity" />
 37-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:29:9-52
 37-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:29:19-49
-38        <activity android:name="com.example.tamilnadu.Main9Activity" />
-38-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:30:9-51
-38-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:30:19-48
-39        <activity android:name="com.example.tamilnadu.Main8Activity" />
-39-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:31:9-51
-39-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:31:19-48
-40        <activity android:name="com.example.tamilnadu.Main7Activity" />
-40-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:32:9-51
-40-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:32:19-48
-41        <activity android:name="com.example.tamilnadu.Main6Activity" />
-41-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:33:9-51
-41-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:33:19-48
-42        <activity android:name="com.example.tamilnadu.Main5Activity" />
+38        <activity android:name="com.example.tamilnadu.Main13Activity" />
+38-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:30:9-52
+38-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:30:19-49
+39        <activity android:name="com.example.tamilnadu.Main12Activity" />
+39-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:31:9-52
+39-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:31:19-49
+40        <activity android:name="com.example.tamilnadu.Main11Activity" />
+40-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:32:9-52
+40-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:32:19-49
+41        <activity android:name="com.example.tamilnadu.Main10Activity" />
+41-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:33:9-52
+41-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:33:19-49
+42        <activity android:name="com.example.tamilnadu.Main9Activity" />
 42-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:34:9-51
 42-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:34:19-48
-43        <activity android:name="com.example.tamilnadu.Main4Activity" />
+43        <activity android:name="com.example.tamilnadu.Main8Activity" />
 43-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:35:9-51
 43-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:35:19-48
-44        <activity android:name="com.example.tamilnadu.Main3Activity" />
+44        <activity android:name="com.example.tamilnadu.Main7Activity" />
 44-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:36:9-51
 44-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:36:19-48
-45        <activity android:name="com.example.tamilnadu.Main2Activity" />
+45        <activity android:name="com.example.tamilnadu.Main6Activity" />
 45-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:37:9-51
 45-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:37:19-48
-46        <activity
-46-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:38:9-40:60
-47            android:name="com.example.tamilnadu.ui.login.LoginActivity"
-47-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:39:13-51
-48            android:label="@string/title_activity_login" />
-48-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:40:13-57
-49        <activity android:name="com.example.tamilnadu.MainActivity" >
-49-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:41:9-47:20
-49-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:41:19-47
-50            <intent-filter>
-50-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:18:13-22:29
-51                <action android:name="android.intent.action.MAIN" />
-51-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:19:17-69
-51-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:19:25-66
-52
-53                <category android:name="android.intent.category.LAUNCHER" />
-53-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:21:17-77
-53-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:21:27-74
-54            </intent-filter>
-55        </activity>
+46        <activity android:name="com.example.tamilnadu.Main5Activity" />
+46-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:38:9-51
+46-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:38:19-48
+47        <activity android:name="com.example.tamilnadu.Main4Activity" />
+47-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:39:9-51
+47-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:39:19-48
+48        <activity android:name="com.example.tamilnadu.Main3Activity" />
+48-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:40:9-51
+48-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:40:19-48
+49        <activity android:name="com.example.tamilnadu.Main2Activity" />
+49-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:41:9-51
+49-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:41:19-48
+50        <activity
+50-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:42:9-44:60
+51            android:name="com.example.tamilnadu.ui.login.LoginActivity"
+51-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:43:13-51
+52            android:label="@string/title_activity_login" />
+52-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:44:13-57
+53        <activity android:name="com.example.tamilnadu.MainActivity" >
+53-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:45:9-51:20
+53-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:45:19-47
+54            <intent-filter>
+54-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:22:13-26:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:23:17-69
+55-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:23:25-66
 56
-57        <provider
-57-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
-58            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-58-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
-59            android:authorities="com.example.tamilnadu.lifecycle-process"
-59-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
-60            android:exported="false"
-60-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
-61            android:multiprocess="true" />
-61-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
-62    </application>
-63
-64</manifest>
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:25:17-77
+57-->C:\Users\DELL\Documents\GitHub\Covidhackathon\Tamil Nadu\app\src\main\AndroidManifest.xml:25:27-74
+58            </intent-filter>
+59        </activity>
+60
+61        <provider
+61-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+62            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+63            android:authorities="com.example.tamilnadu.lifecycle-process"
+63-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+64            android:exported="false"
+64-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+65            android:multiprocess="true" />
+65-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\DELL\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+66    </application>
+67
+68</manifest>

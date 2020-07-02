@@ -12,6 +12,7 @@
     android:background="@drawable/e"
     tools:context=".ui.login.LoginActivity">
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
