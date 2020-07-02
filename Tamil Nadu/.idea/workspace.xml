@@ -14,28 +14,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="475a2706-3528-46c2-8784-a36793aee8bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tamilnadu/Main22Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tamilnadu/Main23Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tamilnadu/Main24Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/tamilnadu/Main25Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/instant_app_manifest/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debugAndroidTest/manifest-merger-blame-debug-androidTest-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main12.xml" afterDir="false" />
-    </list>
+    <list default="true" id="475a2706-3528-46c2-8784-a36793aee8bb" name="Default Changelist" comment="" />
     <list id="572fb40c-e70d-4d84-92d2-4dc67056f101" name="Merge branch 'master' into kerela" comment="Merge branch 'master' into kerela&#10;&#10;# Conflicts:&#10;#&#9;Goa/.gitignore&#10;#&#9;Goa/.idea/codeStyles/Project.xml&#10;#&#9;Goa/.idea/gradle.xml&#10;#&#9;Goa/.idea/misc.xml&#10;#&#9;Goa/.idea/runConfigurations.xml&#10;#&#9;Goa/.idea/vcs.xml&#10;#&#9;Goa/.idea/workspace.xml&#10;#&#9;Goa/app/.gitignore&#10;#&#9;Goa/app/build.gradle&#10;#&#9;Goa/app/proguard-rules.pro&#10;#&#9;Goa/app/src/androidTest/java/com/example/goa/ExampleInstrumentedTest.java&#10;#&#9;Goa/app/src/main/AndroidManifest.xml&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main2Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main3Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main4Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main5Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main6Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main7Activity.java&#10;#&#9;Goa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml&#10;#&#9;Goa/app/src/main/res/drawable/ic_launcher_background.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main3.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main4.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main5.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main6.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main7.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/values/colors.xml&#10;#&#9;Goa/app/src/main/res/values/styles.xml&#10;#&#9;Goa/app/src/test/java/com/example/goa/ExampleUnitTest.java&#10;#&#9;Goa/build.gradle&#10;#&#9;Goa/gradle.properties&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.jar&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.properties&#10;#&#9;Goa/gradlew&#10;#&#9;Goa/gradlew.bat" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main12.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state relative-caret-position="250">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -167,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1335" />
@@ -414,11 +393,18 @@
       <option name="project" value="LOCAL" />
       <updated>1593691102886</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="final commit of tamil nadu">
+      <created>1593702881128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593702881128</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -433,9 +419,9 @@
       <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4977307" weight="0.3289689" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49924356" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.49924356" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4977307" visible="true" weight="0.29787233" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4977307" weight="0.29787233" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -443,7 +429,7 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.26701966" />
+      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.26701966" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
     <layout-to-restore>
@@ -818,8 +804,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main12.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state relative-caret-position="250">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
