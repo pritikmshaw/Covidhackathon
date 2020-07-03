@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Karnataka</string>
+    <string name="title_activity_main22">Main22Activity</string>
+    <string name="username">Enter User Name</string>
 </resources>
