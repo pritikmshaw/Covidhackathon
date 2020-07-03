@@ -7,8 +7,7 @@
     android:orientation="vertical"
     android:layout_gravity="center"
     android:background="@drawable/h"
-    tools:context=".Main3Activity">
-
+    tools:context=".Main4Activity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
@@ -117,7 +116,6 @@
         android:text="LOG IN"
         android:textStyle="bold"
         android:textColor="@android:color/black"></Button>
-
 
 
 </LinearLayout>

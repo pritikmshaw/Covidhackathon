@@ -16,7 +16,7 @@
 
     <color name="onboarding_screen_1_bg_color">#f9e9e9</color>
     <color name="onboarding_screen_2_bg_color">#f9e9f4</color>
-    <color name="bg">#FFFAE3</color>
+    <color name="bg">#FFFFFF</color>
     <color name="bg1">#D285FFC2</color>
     <color name="no_network_back">#F5F5F5</color>
 

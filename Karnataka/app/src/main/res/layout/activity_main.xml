@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/onboarding_screen_2_bg_color"
+android:background="@drawable/h"
     tools:context=".MainActivity">
 
     <LinearLayout
