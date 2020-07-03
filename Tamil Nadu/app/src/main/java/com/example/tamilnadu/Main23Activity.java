@@ -12,3 +12,4 @@ public class Main23Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main23);
     }
 }
+// can u see this
