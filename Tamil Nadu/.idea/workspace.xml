@@ -15,12 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="475a2706-3528-46c2-8784-a36793aee8bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/java/com/example/karnataka/Main4Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/res/layout/activity_main4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/java/com/example/karnataka/Main6Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/res/layout/activity_main6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Karnataka/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Karnataka/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Karnataka/app/src/main/res/layout/activity_main2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/res/layout/activity_main2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Karnataka/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Karnataka/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="572fb40c-e70d-4d84-92d2-4dc67056f101" name="Merge branch 'master' into kerela" comment="Merge branch 'master' into kerela&#10;&#10;# Conflicts:&#10;#&#9;Goa/.gitignore&#10;#&#9;Goa/.idea/codeStyles/Project.xml&#10;#&#9;Goa/.idea/gradle.xml&#10;#&#9;Goa/.idea/misc.xml&#10;#&#9;Goa/.idea/runConfigurations.xml&#10;#&#9;Goa/.idea/vcs.xml&#10;#&#9;Goa/.idea/workspace.xml&#10;#&#9;Goa/app/.gitignore&#10;#&#9;Goa/app/build.gradle&#10;#&#9;Goa/app/proguard-rules.pro&#10;#&#9;Goa/app/src/androidTest/java/com/example/goa/ExampleInstrumentedTest.java&#10;#&#9;Goa/app/src/main/AndroidManifest.xml&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main2Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main3Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main4Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main5Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main6Activity.java&#10;#&#9;Goa/app/src/main/java/com/example/goa/Main7Activity.java&#10;#&#9;Goa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml&#10;#&#9;Goa/app/src/main/res/drawable/ic_launcher_background.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main3.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main4.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main5.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main6.xml&#10;#&#9;Goa/app/src/main/res/layout/activity_main7.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml&#10;#&#9;Goa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-hdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-mdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png&#10;#&#9;Goa/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png&#10;#&#9;Goa/app/src/main/res/values/colors.xml&#10;#&#9;Goa/app/src/main/res/values/styles.xml&#10;#&#9;Goa/app/src/test/java/com/example/goa/ExampleUnitTest.java&#10;#&#9;Goa/build.gradle&#10;#&#9;Goa/gradle.properties&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.jar&#10;#&#9;Goa/gradle/wrapper/gradle-wrapper.properties&#10;#&#9;Goa/gradlew&#10;#&#9;Goa/gradlew.bat" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,20 +58,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="485">
+              <caret line="98" column="52" lean-forward="true" selection-start-line="1" selection-end-line="98" selection-end-column="52" />
+              <folding>
+                <element signature="e#2031#2056#0" expanded="true" />
+                <element signature="e#2088#2118#0" expanded="true" />
+              </folding>
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main5.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="321">
               <caret line="88" selection-start-line="11" selection-start-column="4" selection-end-line="88" />
             </state>
           </provider>
@@ -194,12 +196,12 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main23.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main24.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main25.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main12.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1335" />
@@ -458,10 +460,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49766356" visible="true" weight="0.15885022" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49766356" weight="0.15885022" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" sideWeight="0.50233644" side_tool="true" weight="0.23373677" />
       <window_info id="Build Variants" order="4" side_tool="true" />
@@ -469,12 +472,12 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4977307" weight="0.049099836" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4977307" weight="0.29787233" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.3289689" />
       <window_info anchor="bottom" id="TODO" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.49924356" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4977307" visible="true" weight="0.29787233" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.4977307" weight="0.29787233" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -482,7 +485,7 @@
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="right" id="Preview" order="4" visible="true" weight="0.26701966" />
+      <window_info active="true" anchor="right" id="Preview" order="4" visible="true" weight="0.26701966" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
     <layout-to-restore>
@@ -843,18 +846,22 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main5.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="321">
+          <caret line="88" selection-start-line="11" selection-start-column="4" selection-end-line="88" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main5.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="88" selection-start-line="11" selection-start-column="4" selection-end-line="88" />
+        <state relative-caret-position="485">
+          <caret line="98" column="52" lean-forward="true" selection-start-line="1" selection-end-line="98" selection-end-column="52" />
+          <folding>
+            <element signature="e#2031#2056#0" expanded="true" />
+            <element signature="e#2088#2118#0" expanded="true" />
+          </folding>
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
