@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/h"
+    tools:context=".Main26Activity">
+    <ImageButton
+        android:id="@+id/imageButton"
+        style="@android:style/Widget.Holo.Light.ImageButton"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="?attr/actionModeCloseDrawable" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Details"
+        android:textColorHint="@color/white"
+        android:textStyle="italic|bold"
+        android:textSize="40dp"></TextView>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Post Assigned"
+        android:textColorHint="@color/white"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Name of the Hospital"
+        android:textColorHint="@color/white"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Address"
+        android:textColorHint="@color/white"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Phone number"
+        android:textColorHint="@color/white"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"></EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:hint="Salary"
+        android:textColorHint="@color/white"
+        android:textStyle="italic|bold"
+        android:textSize="30dp"></EditText>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        style="@style/Widget.MaterialComponents.ChipGroup"
+        android:text="Submit"></Button>
+
+</LinearLayout>
