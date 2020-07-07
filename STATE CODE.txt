@@ -1,10 +1,10 @@
-1.Andhra Pradesh AP
-Folder name : 2020-04-10281 AP App & Web
-app screen recording: 2020-04-10281 AP App videofile
-web rec: 2020-04-10281 AP Web videofile
-app: 2020-04-10281 AP App.apk
-web ss: screenshots  web- AP
-app ss: screenshots app-AP
+1.Andhra Pradesh AD
+Folder name : 2020-04-10281 AD App & Web
+app screen recording: 2020-04-10281 AD App videofile
+web rec: 2020-04-10281 AD Web videofile
+app: 2020-04-10281 AD App.apk
+web ss: screenshots  web- AD
+app ss: screenshots app-AD
 
 2.ARUNACHAL PRADESH AR
 Folder name : 2020-04-10281 AR App & Web
@@ -14,7 +14,7 @@ app: 2020-04-10281 AR App.apk
 web ss: screenshots web-AR
 app ss: screenshots app-AR
 
-3.ASSAM AS
+*3.ASSAM AS
 
 Folder name : 2020-04-10281 AS App & Web
 app screen recording: 2020-04-10281 AS App videofile
@@ -57,16 +57,22 @@ web ss: screenshots web-GJ
 app ss: screenshots app-GJ
 
 8.HARYANA HR
-folder name
-app screen recording folder 
-web screen recording folder
-web recording
-app recording
-web screen shots
-app screen shots
+Folder name : 2020-04-10281 HR App & Web
+app screen recording: 2020-04-10281 HR App videofile
+web rec: 2020-04-10281 HR  Web videofile
+app: 2020-04-10281 HR App.apk
+web ss: screenshots web-HR
+app ss: screenshots app-HR
 
 
-*9.HIMACHAL PRADESH HP
+*9.HIMACHAL PRADESH HP (ON HOLD)
+
+Folder name : 2020-04-10281 HP App & Web
+app screen recording: 2020-04-10281 HP App videofile
+web rec: 2020-04-10281 HP  Web videofile
+app: 2020-04-10281 HP App.apk
+web ss: screenshots web-HP
+app ss: screenshots app-HP
 
 
 10. JAMMU AND KASHMIR JK
@@ -89,6 +95,12 @@ web ss: screenshots web-JH
 app ss: screenshots app-JH
 
 12.KARNATAKA KA
+Folder name : 2020-04-10281 KA App & Web
+app screen recording: 2020-04-10281 KA App videofile
+web rec: 2020-04-10281 KA  Web videofile
+app: 2020-04-10281 KA App.apk
+web ss: screenshots web-KA
+app ss: screenshots app-KA
 
 13.KERELA  KL
 
@@ -100,18 +112,59 @@ web ss: screenshots web-KL
 app ss: screenshots app-KL
 
 14.MADHYA PRADESH MP
+Folder name : 2020-04-10281 MP App & Web
+app screen recording: 2020-04-10281 MP App videofile
+web rec: 2020-04-10281 MP  Web videofile
+app: 2020-04-10281 MP App.apk
+web ss: screenshots web-MP
+app ss: screenshots app-MP
 
 15.MAHARASTRA  MH
+Folder name : 2020-04-10281 MH App & Web
+app screen recording: 2020-04-10281 MH App videofile
+web rec: 2020-04-10281 MH  Web videofile
+app: 2020-04-10281 MH App.apk
+web ss: screenshots web-MH
+app ss: screenshots app-MH
 
 16.MANIPUR MN
+Folder name : 2020-04-10281 MN App & Web
+app screen recording: 2020-04-10281 MN App videofile
+web rec: 2020-04-10281 MN  Web videofile
+app: 2020-04-10281 MN App.apk
+web ss: screenshots web-MN
+app ss: screenshots app-MN
 
 17.MEGHALAYA ML
+Folder name : 2020-04-10281 ML App & Web
+app screen recording: 2020-04-10281 ML App videofile
+web rec: 2020-04-10281 ML  Web videofile
+app: 2020-04-10281 ML App.apk
+web ss: screenshots web-ML
+app ss: screenshots app-ML
 
 18.MIZORAM MZ
-
+Folder name : 2020-04-10281 MZ App & Web
+app screen recording: 2020-04-10281 MZ App videofile
+web rec: 2020-04-10281 MZ  Web videofile
+app: 2020-04-10281 MZ App.apk
+web ss: screenshots web-MZ
+app ss: screenshots app-MZ
 19.NAGALAND NL
+Folder name : 2020-04-10281 NL App & Web
+app screen recording: 2020-04-10281 NL App videofile
+web rec: 2020-04-10281 NL  Web videofile
+app: 2020-04-10281 NL App.apk
+web ss: screenshots web-NL
+app ss: screenshots app-NL
 
-20.ORISSA OR
+20.ORISSA OD
+Folder name : 2020-04-10281 OD App & Web
+app screen recording: 2020-04-10281 OD App videofile
+web rec: 2020-04-10281 OD  Web videofile
+app: 2020-04-10281 OD App.apk
+web ss: screenshots web-OD
+app ss: screenshots app-OD
 
 21.PUNJAB PB
 
@@ -123,19 +176,65 @@ web ss: screenshots web-PB
 app ss: screenshots app-PB
 
 22. RAJASTHAN RJ
+Folder name : 2020-04-10281 RJ App & Web
+app screen recording: 2020-04-10281 RJ App videofile
+web rec: 2020-04-10281 RJ  Web videofile
+app: 2020-04-10281 RJ App.apk
+web ss: screenshots web-RJ
+app ss: screenshots app-RJ
 
 
 23.SIKKIM SK
+Folder name : 2020-04-10281 SK App & Web
+app screen recording: 2020-04-10281 SK App videofile
+web rec: 2020-04-10281 SK  Web videofile
+app: 2020-04-10281 SK App.apk
+web ss: screenshots web-SK
+app ss: screenshots app-SK
 
 24.TAMIL NADU TN
 
+Folder name : 2020-04-10281 TN App & Web
+app screen recording: 2020-04-10281 TN App videofile
+web rec: 2020-04-10281 TN  Web videofile
+app: 2020-04-10281 TN App.apk
+web ss: screenshots web-TN
+app ss: screenshots app-TN
+
 25.TRIPURA TR
 
+Folder name : 2020-04-10281 TR App & Web
+app screen recording: 2020-04-10281 TR App videofile
+web rec: 2020-04-10281 TR  Web videofile
+app: 2020-04-10281 TR App.apk
+web ss: screenshots web-TR
+app ss: screenshots app-TR
+
 26.ANDAMAN AND NICOBAR AN
+Folder name : 2020-04-10281 AN App & Web
+app screen recording: 2020-04-10281 AN App videofile
+web rec: 2020-04-10281 AN  Web videofile
+app: 2020-04-10281 AN App.apk
+web ss: screenshots web-AN
+app ss: screenshots app-AN
 
 27.UTTARAKHAND UK
 
+Folder name : 2020-04-10281 UK App & Web
+app screen recording: 2020-04-10281 UK App videofile
+web rec: 2020-04-10281 UK  Web videofile
+app: 2020-04-10281 UK App.apk
+web ss: screenshots web-UK
+app ss: screenshots app-UK
+
 28.UTTAR PRADESH UP
+
+Folder name : 2020-04-10281 UP App & Web
+app screen recording: 2020-04-10281 UP App videofile
+web rec: 2020-04-10281 UP  Web videofile
+app: 2020-04-10281 UP App.apk
+web ss: screenshots web-UP
+app ss: screenshots app-UP
 
 29.WEST BENGAL WB
 
@@ -148,11 +247,31 @@ app ss: screenshots app-WB
 
 30.CHANDIGHAR CH
 
-*31.DADRA AND NAGAR HAVELI DH
+Folder name : 2020-04-10281 CH App & Web
+app screen recording: 2020-04-10281 CH App videofile
+web rec: 2020-04-10281 CH  Web videofile
+app: 2020-04-10281 CH App.apk
+web ss: screenshots web-CH
+app ss: screenshots app-CH
 
-*32.DAMAN AND DIU DD
+*31. DAMAN AND DIU DADRA AND NAGAR HAVELI DN
 
-33.DELHI DL
+Folder name : 2020-04-10281 DN App & Web
+app screen recording: 2020-04-10281 DN App videofile
+web rec: 2020-04-10281 DN  Web videofile
+app: 2020-04-10281 DN App.apk
+web ss: screenshots web-DN
+app ss: screenshots app-DN
+
+32. LADAKH LA
+Folder name : 2020-04-10281 LA App & Web
+app screen recording: 2020-04-10281 LA App videofile
+web rec: 2020-04-10281 LA  Web videofile
+app: 2020-04-10281 LA App.apk
+web ss: screenshots web-LA
+app ss: screenshots app-LA
+
+*33.DELHI DL
 
 Folder name : 2020-04-10281 DL App & Web
 app screen recording: 2020-04-10281 DL App videofile
@@ -163,16 +282,29 @@ app ss: screenshots app-DL
 
 34.LAKSHADWEEP LD
 
+Folder name : 2020-04-10281 LD App & Web
+app screen recording: 2020-04-10281 LD App videofile
+web rec: 2020-04-10281 LD  Web videofile
+app: 2020-04-10281 LD App.apk
+web ss: screenshots web-LD
+app ss: screenshots app-LD
+
 35.PONDICHERRY PY
+Folder name : 2020-04-10281 PY App & Web
+app screen recording: 2020-04-10281 PY App videofile
+web rec: 2020-04-10281 PY  Web videofile
+app: 2020-04-10281 PY App.apk
+web ss: screenshots web-PY
+app ss: screenshots app-PY
 
-36.
+36.TELANGANA TS
 
-Folder name : 2020-04-10281  App & Web
-app screen recording: 2020-04-10281  App videofile
-web rec: 2020-04-10281   Web videofile
-app: 2020-04-10281  App.apk
-web ss: screenshots web-
-app ss: screenshots app-
+Folder name : 2020-04-10281 TS App & Web
+app screen recording: 2020-04-10281 TS App videofile
+web rec: 2020-04-10281 TS  Web videofile
+app: 2020-04-10281 TS App.apk
+web ss: screenshots web-TS
+app ss: screenshots app-TS
 
 
 
