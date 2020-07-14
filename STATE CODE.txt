@@ -79,7 +79,7 @@ web ss: screenshots web-HR
 app ss: screenshots app-HR
 
 
-*9.HIMACHAL PRADESH HP (ON HOLD)
+9.HIMACHAL PRADESH HP (ON HOLD)
 website name: Shruti
 website url:
 Folder name : 2020-04-10281 HP App & Web
