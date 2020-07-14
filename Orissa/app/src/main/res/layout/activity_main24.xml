@@ -63,7 +63,7 @@
         android:layout_gravity="center"
         android:textStyle="bold"
         android:textSize="30dp"
-        style="@style/Widget.MaterialComponents.ChipGroup"
+
         android:text="Submit"></Button>
 
 </LinearLayout>
