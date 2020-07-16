@@ -39,7 +39,7 @@ web ss: screenshots web-AS
 app ss: screenshots app-AS
 
 5.BIHAR BR
-website name:
+website name: SULAGNA
 website url:https://soumyakishoreghosh.wixsite.com/website-5
 Folder name : 2020-04-10281 BR App & Web
 app screen recording: 2020-04-10281 BR App videofile
